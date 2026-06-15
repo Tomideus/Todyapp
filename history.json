@@ -14,5 +14,13 @@
     "task_name": "Aspirar casa",
     "points": 10,
     "task_id": 1
+  },
+  {
+    "timestamp": "2026-06-15 20:07:22",
+    "date": "2026-06-15",
+    "user": "Tomas",
+    "task_name": "Limpiar balcones",
+    "points": 5,
+    "task_id": 7
   }
 ]
