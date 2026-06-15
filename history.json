@@ -1,1 +1,9 @@
-[]
+[ {
+    "timestamp": "2026-06-15 19:09:09",
+    "date": "2026-06-15",
+    "user": "Tomas",
+    "task_name": "Limpiar baño",
+    "points": 15,
+    "task_id": 3
+  }
+]
