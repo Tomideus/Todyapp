@@ -38,5 +38,13 @@
     "task_name": "Guardar ropa",
     "points": 5,
     "task_id": 4
+  },
+  {
+    "timestamp": "2026-06-15 20:08:24",
+    "date": "2026-06-15",
+    "user": "Luciana",
+    "task_name": "Limpiar cocina(hornallas)",
+    "points": 5,
+    "task_id": 2
   }
 ]
