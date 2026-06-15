@@ -30,5 +30,13 @@
     "task_name": "Sacar basura y poner bolsa nueva",
     "points": 10,
     "task_id": 10
+  },
+  {
+    "timestamp": "2026-06-15 20:07:42",
+    "date": "2026-06-15",
+    "user": "Luciana",
+    "task_name": "Guardar ropa",
+    "points": 5,
+    "task_id": 4
   }
 ]
