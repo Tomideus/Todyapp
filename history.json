@@ -46,5 +46,13 @@
     "task_name": "Lavar ropa",
     "points": 5,
     "task_id": 5
+  },
+  {
+    "timestamp": "2026-06-17 21:04:22",
+    "date": "2026-06-17",
+    "user": "Luciana",
+    "task_name": "Cambiar sabanas",
+    "points": 10,
+    "task_id": 8
   }
 ]
