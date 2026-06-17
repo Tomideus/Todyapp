@@ -8,43 +8,11 @@
     "task_id": 3
   },
   {
-    "timestamp": "2026-06-15 20:06:02",
-    "date": "2026-06-15",
+    "timestamp": "2026-06-17 21:02:15",
+    "date": "2026-06-17",
     "user": "Tomas",
-    "task_name": "Aspirar casa",
-    "points": 10,
-    "task_id": 1
-  },
-  {
-    "timestamp": "2026-06-15 20:07:22",
-    "date": "2026-06-15",
-    "user": "Tomas",
-    "task_name": "Limpiar balcones",
-    "points": 5,
-    "task_id": 7
-  },
-  {
-    "timestamp": "2026-06-15 20:07:36",
-    "date": "2026-06-15",
-    "user": "Luciana",
     "task_name": "Sacar basura y poner bolsa nueva",
     "points": 10,
     "task_id": 10
-  },
-  {
-    "timestamp": "2026-06-15 20:07:42",
-    "date": "2026-06-15",
-    "user": "Luciana",
-    "task_name": "Guardar ropa",
-    "points": 5,
-    "task_id": 4
-  },
-  {
-    "timestamp": "2026-06-15 20:08:24",
-    "date": "2026-06-15",
-    "user": "Luciana",
-    "task_name": "Limpiar cocina(hornallas)",
-    "points": 5,
-    "task_id": 2
   }
 ]
