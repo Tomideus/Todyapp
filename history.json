@@ -22,5 +22,13 @@
     "task_name": "Limpiar piso cocina",
     "points": 10,
     "task_id": 9
+  },
+  {
+    "timestamp": "2026-06-17 21:02:30",
+    "date": "2026-06-17",
+    "user": "Luciana",
+    "task_name": "Limpiar balcones",
+    "points": 5,
+    "task_id": 7
   }
 ]
