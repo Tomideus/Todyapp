@@ -8,51 +8,11 @@
     "task_id": 3
   },
   {
-    "timestamp": "2026-06-17 21:02:15",
-    "date": "2026-06-17",
-    "user": "Tomas",
-    "task_name": "Sacar basura y poner bolsa nueva",
-    "points": 10,
-    "task_id": 10
-  },
-  {
-    "timestamp": "2026-06-17 21:02:25",
-    "date": "2026-06-17",
-    "user": "Tomas",
-    "task_name": "Limpiar piso cocina",
-    "points": 10,
-    "task_id": 9
-  },
-  {
-    "timestamp": "2026-06-17 21:02:30",
-    "date": "2026-06-17",
+    "timestamp": "2026-06-20 12:01:25",
+    "date": "2026-06-20",
     "user": "Luciana",
     "task_name": "Limpiar balcones",
     "points": 5,
     "task_id": 7
-  },
-  {
-    "timestamp": "2026-06-17 21:02:41",
-    "date": "2026-06-17",
-    "user": "Luciana",
-    "task_name": "Guardar ropa",
-    "points": 5,
-    "task_id": 4
-  },
-  {
-    "timestamp": "2026-06-17 21:03:17",
-    "date": "2026-06-17",
-    "user": "Luciana",
-    "task_name": "Lavar ropa",
-    "points": 5,
-    "task_id": 5
-  },
-  {
-    "timestamp": "2026-06-17 21:04:22",
-    "date": "2026-06-17",
-    "user": "Luciana",
-    "task_name": "Cambiar sabanas",
-    "points": 10,
-    "task_id": 8
   }
 ]
