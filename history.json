@@ -46,13 +46,5 @@
     "task_name": "Guardar ropa",
     "points": 5,
     "task_id": 4
-  },
-  {
-    "timestamp": "2026-06-24 14:16:31",
-    "date": "2026-06-24",
-    "user": "Tomas",
-    "task_name": "Cambiar sabanas",
-    "points": 10,
-    "task_id": 8
   }
 ]
