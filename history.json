@@ -22,5 +22,13 @@
     "task_name": "Aspirar casa",
     "points": 10,
     "task_id": 1
+  },
+  {
+    "timestamp": "2026-06-24 14:10:17",
+    "date": "2026-06-24",
+    "user": "Luciana",
+    "task_name": "Revisar heladera",
+    "points": 10,
+    "task_id": 6
   }
 ]
