@@ -14,5 +14,13 @@
     "task_name": "Limpiar baño",
     "points": 15,
     "task_id": 3
+  },
+  {
+    "timestamp": "2026-06-24 04:31:32",
+    "date": "2026-06-24",
+    "user": "Tomas",
+    "task_name": "Limpiar piso cocina",
+    "points": 10,
+    "task_id": 9
   }
 ]
