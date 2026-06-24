@@ -1,13 +1,5 @@
 [
   {
-    "id": 1,
-    "task_name": "Aspirar casa",
-    "frequency_days": 7,
-    "points": 10,
-    "last_done_by": "Tomas",
-    "last_date": "2026-06-24"
-  },
-  {
     "id": 2,
     "task_name": "Limpiar cocina(hornallas)",
     "frequency_days": 7,
