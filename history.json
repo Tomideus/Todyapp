@@ -94,5 +94,13 @@
     "task_name": "Limpiar piso cocina",
     "points": 10,
     "task_id": 9
+  },
+  {
+    "timestamp": "2026-07-05 23:19:43",
+    "date": "2026-07-05",
+    "user": "Tomas",
+    "task_name": "Revisar heladera",
+    "points": 10,
+    "task_id": 6
   }
 ]
