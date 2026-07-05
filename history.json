@@ -62,5 +62,13 @@
     "task_name": "Vaciar secaplatos",
     "points": 5,
     "task_id": 12
+  },
+  {
+    "timestamp": "2026-07-05 11:40:44",
+    "date": "2026-07-05",
+    "user": "Luciana",
+    "task_name": "Guardar ropa",
+    "points": 5,
+    "task_id": 4
   }
 ]
