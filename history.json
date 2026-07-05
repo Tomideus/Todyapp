@@ -86,5 +86,13 @@
     "task_name": "Lavar ropa",
     "points": 5,
     "task_id": 5
+  },
+  {
+    "timestamp": "2026-07-05 23:14:28",
+    "date": "2026-07-05",
+    "user": "Tomas",
+    "task_name": "Limpiar piso cocina",
+    "points": 10,
+    "task_id": 9
   }
 ]
