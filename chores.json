@@ -64,14 +64,6 @@
     "last_date": "2026-06-24"
   },
   {
-    "id": 10,
-    "task_name": "Sacar basura y poner bolsa nueva",
-    "frequency_days": 4,
-    "points": 10,
-    "last_done_by": "Tomas",
-    "last_date": "2026-06-24"
-  },
-  {
     "id": 11,
     "task_name": "Aspirar casa",
     "frequency_days": 3,
