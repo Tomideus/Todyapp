@@ -86,5 +86,13 @@
     "task_name": "Revisar heladera",
     "points": 10,
     "task_id": 6
+  },
+  {
+    "timestamp": "2026-07-07 12:29:28",
+    "date": "2026-07-07",
+    "user": "Luciana",
+    "task_name": "Limpiar baño",
+    "points": 15,
+    "task_id": 3
   }
 ]
