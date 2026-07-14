@@ -134,5 +134,13 @@
     "task_name": "Vaciar secaplatos",
     "points": 5,
     "task_id": 12
+  },
+  {
+    "timestamp": "2026-07-14 21:21:49",
+    "date": "2026-07-14",
+    "user": "Tomas",
+    "task_name": "Vaciar secaplatos",
+    "points": 5,
+    "task_id": 12
   }
 ]
