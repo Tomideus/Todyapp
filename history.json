@@ -198,5 +198,13 @@
     "task_name": "Aspirar",
     "points": 5,
     "task_id": 13
+  },
+  {
+    "timestamp": "2026-07-21 14:10:34",
+    "date": "2026-07-21",
+    "user": "Luciana",
+    "task_name": "Limpiar piso cocina",
+    "points": 10,
+    "task_id": 9
   }
 ]
