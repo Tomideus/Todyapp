@@ -222,5 +222,13 @@
     "task_name": "Vaciar secaplatos",
     "points": 5,
     "task_id": 12
+  },
+  {
+    "timestamp": "2026-07-23 11:57:52",
+    "date": "2026-07-23",
+    "user": "Luciana",
+    "task_name": "Limpiar cocina(hornallas)",
+    "points": 5,
+    "task_id": 2
   }
 ]
