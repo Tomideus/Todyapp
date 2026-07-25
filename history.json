@@ -238,5 +238,13 @@
     "task_name": "Aspirar",
     "points": 5,
     "task_id": 13
+  },
+  {
+    "timestamp": "2026-07-25 11:46:14",
+    "date": "2026-07-25",
+    "user": "Luciana",
+    "task_name": "Limpiar balcones",
+    "points": 5,
+    "task_id": 7
   }
 ]
