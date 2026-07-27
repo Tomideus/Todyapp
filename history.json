@@ -302,5 +302,13 @@
     "task_name": "Revisar heladera",
     "points": 10,
     "task_id": 6
+  },
+  {
+    "timestamp": "2026-07-27 12:08:46",
+    "date": "2026-07-27",
+    "user": "Tomas",
+    "task_name": "Lavar ropa",
+    "points": 5,
+    "task_id": 5
   }
 ]
