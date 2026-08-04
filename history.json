@@ -350,5 +350,13 @@
     "task_name": "Lavar ropa",
     "points": 5,
     "task_id": 5
+  },
+  {
+    "timestamp": "2026-08-04 10:56:17",
+    "date": "2026-08-04",
+    "user": "Luciana",
+    "task_name": "Limpiar cocina(hornallas)",
+    "points": 5,
+    "task_id": 2
   }
 ]
