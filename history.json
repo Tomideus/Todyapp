@@ -358,5 +358,13 @@
     "task_name": "Limpiar cocina(hornallas)",
     "points": 5,
     "task_id": 2
+  },
+  {
+    "timestamp": "2026-08-05 11:51:49",
+    "date": "2026-08-05",
+    "user": "Luciana",
+    "task_name": "Aspirar",
+    "points": 5,
+    "task_id": 13
   }
 ]
