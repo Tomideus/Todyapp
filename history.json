@@ -374,5 +374,13 @@
     "task_name": "Vaciar secaplatos",
     "points": 5,
     "task_id": 12
+  },
+  {
+    "timestamp": "2026-08-07 13:58:44",
+    "date": "2026-08-07",
+    "user": "Luciana",
+    "task_name": "Limpiar balcones",
+    "points": 5,
+    "task_id": 7
   }
 ]
