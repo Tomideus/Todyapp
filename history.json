@@ -390,5 +390,13 @@
     "task_name": "Cambiar sabanas",
     "points": 10,
     "task_id": 8
+  },
+  {
+    "timestamp": "2026-08-10 13:17:21",
+    "date": "2026-08-10",
+    "user": "Luciana",
+    "task_name": "Limpiar piso cocina",
+    "points": 10,
+    "task_id": 9
   }
 ]
