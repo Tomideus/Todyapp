@@ -406,5 +406,13 @@
     "task_name": "Aspirar",
     "points": 5,
     "task_id": 13
+  },
+  {
+    "timestamp": "2026-09-17 13:02:15",
+    "date": "2026-09-17",
+    "user": "Luciana",
+    "task_name": "Vaciar secaplatos",
+    "points": 5,
+    "task_id": 12
   }
 ]
