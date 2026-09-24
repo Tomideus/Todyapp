@@ -478,5 +478,13 @@
     "task_name": "Limpiar cocina(hornallas)",
     "points": 5,
     "task_id": 2
+  },
+  {
+    "timestamp": "2026-09-24 18:20:23",
+    "date": "2026-09-24",
+    "user": "Luciana",
+    "task_name": "Revisar heladera",
+    "points": 10,
+    "task_id": 6
   }
 ]
