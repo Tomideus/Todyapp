@@ -86,5 +86,13 @@
     "points": 5,
     "last_done_by": "Luciana",
     "last_date": "2026-09-24"
+  },
+  {
+    "id": 16,
+    "task_name": "Ordenar ropa",
+    "frequency_days": 3,
+    "points": 5,
+    "last_done_by": "Luciana",
+    "last_date": "2026-09-24"
   }
 ]
