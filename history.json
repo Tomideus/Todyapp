@@ -446,5 +446,13 @@
     "task_name": "Vaciar secaplatos",
     "points": 5,
     "task_id": 12
+  },
+  {
+    "timestamp": "2026-09-24 12:29:17",
+    "date": "2026-09-24",
+    "user": "Luciana",
+    "task_name": "Limpiar bolsa de la aspiradora.",
+    "points": 20,
+    "task_id": 14
   }
 ]
