@@ -454,5 +454,13 @@
     "task_name": "Limpiar bolsa de la aspiradora.",
     "points": 20,
     "task_id": 14
+  },
+  {
+    "timestamp": "2026-09-24 12:29:23",
+    "date": "2026-09-24",
+    "user": "Luciana",
+    "task_name": "Lavar ropa",
+    "points": 5,
+    "task_id": 5
   }
 ]
