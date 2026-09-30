@@ -534,5 +534,13 @@
     "task_name": "Limpiar balcones",
     "points": 5,
     "task_id": 7
+  },
+  {
+    "timestamp": "2026-09-30 03:11:49",
+    "date": "2026-09-30",
+    "user": "Tomas",
+    "task_name": "Ordenar ropa",
+    "points": 5,
+    "task_id": 17
   }
 ]
