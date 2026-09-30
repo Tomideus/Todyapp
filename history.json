@@ -526,5 +526,13 @@
     "task_name": "Limpiar cocina(hornallas)",
     "points": 5,
     "task_id": 2
+  },
+  {
+    "timestamp": "2026-09-30 03:11:41",
+    "date": "2026-09-30",
+    "user": "Tomas",
+    "task_name": "Limpiar balcones",
+    "points": 5,
+    "task_id": 7
   }
 ]
