@@ -486,5 +486,13 @@
     "task_name": "Revisar heladera",
     "points": 10,
     "task_id": 6
+  },
+  {
+    "timestamp": "2026-09-30 03:10:43",
+    "date": "2026-09-30",
+    "user": "Tomas",
+    "task_name": "Aspirar",
+    "points": 5,
+    "task_id": 13
   }
 ]
