@@ -494,5 +494,13 @@
     "task_name": "Aspirar",
     "points": 5,
     "task_id": 13
+  },
+  {
+    "timestamp": "2026-09-30 03:10:50",
+    "date": "2026-09-30",
+    "user": "Tomas",
+    "task_name": "Limpiar baño",
+    "points": 15,
+    "task_id": 3
   }
 ]
