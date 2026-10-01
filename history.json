@@ -542,5 +542,13 @@
     "task_name": "Ordenar ropa",
     "points": 5,
     "task_id": 17
+  },
+  {
+    "timestamp": "2026-10-01 04:36:09",
+    "date": "2026-10-01",
+    "user": "Luciana",
+    "task_name": "Cambiar sabanas",
+    "points": 10,
+    "task_id": 8
   }
 ]
