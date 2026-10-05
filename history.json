@@ -558,5 +558,13 @@
     "task_name": "Lavar ropa",
     "points": 5,
     "task_id": 5
+  },
+  {
+    "timestamp": "2026-10-05 00:50:36",
+    "date": "2026-10-05",
+    "user": "Luciana",
+    "task_name": "Limpiar balcones",
+    "points": 5,
+    "task_id": 7
   }
 ]
