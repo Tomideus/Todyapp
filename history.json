@@ -574,5 +574,13 @@
     "task_name": "Ordenar ropa",
     "points": 5,
     "task_id": 17
+  },
+  {
+    "timestamp": "2026-10-05 00:50:51",
+    "date": "2026-10-05",
+    "user": "Luciana",
+    "task_name": "Vaciar secaplatos",
+    "points": 5,
+    "task_id": 12
   }
 ]
