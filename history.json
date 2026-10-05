@@ -606,5 +606,13 @@
     "task_name": "Sacar del tender y guardar ropa limpia",
     "points": 5,
     "task_id": 18
+  },
+  {
+    "timestamp": "2026-10-05 18:55:54",
+    "date": "2026-10-05",
+    "user": "Luciana",
+    "task_name": "Limpiar microondas",
+    "points": 10,
+    "task_id": 19
   }
 ]
