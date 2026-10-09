@@ -646,5 +646,13 @@
     "task_name": "Limpiar cocina(hornallas)",
     "points": 5,
     "task_id": 2
+  },
+  {
+    "timestamp": "2026-10-09 00:38:37",
+    "date": "2026-10-09",
+    "user": "Luciana",
+    "task_name": "Limpiar piso cocina",
+    "points": 10,
+    "task_id": 9
   }
 ]
