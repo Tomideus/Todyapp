@@ -654,5 +654,13 @@
     "task_name": "Limpiar piso cocina",
     "points": 10,
     "task_id": 9
+  },
+  {
+    "timestamp": "2026-10-09 00:38:46",
+    "date": "2026-10-09",
+    "user": "Luciana",
+    "task_name": "Sacar del tender y guardar ropa limpia",
+    "points": 5,
+    "task_id": 18
   }
 ]
