@@ -678,5 +678,13 @@
     "task_name": "Vaciar secaplatos",
     "points": 5,
     "task_id": 12
+  },
+  {
+    "timestamp": "2026-10-14 20:23:28",
+    "date": "2026-10-14",
+    "user": "Luciana",
+    "task_name": "Cambiar sabanas",
+    "points": 10,
+    "task_id": 8
   }
 ]
